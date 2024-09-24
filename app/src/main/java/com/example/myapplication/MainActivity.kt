@@ -16,6 +16,8 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
+
+        //Novo teste branch
     }
     //comentarioole1
     //comentarioole2
