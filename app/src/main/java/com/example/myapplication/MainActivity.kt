@@ -22,5 +22,6 @@ class MainActivity : AppCompatActivity() {
     //comentarioole3
 
     // branch funcionalidade1 2 3
-
+    // branch funcionalidade2
+    // branch funcionalidade3
 }
