@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
+    // teste do git
     }
     //comentarioole1
     //comentarioole2
